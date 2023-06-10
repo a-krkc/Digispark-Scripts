@@ -2,13 +2,13 @@
 |-----------------|--------------------------|
 | KEY_A           | A KEY                   |
 | KEY_B           | B KEY                   |
-| All they letter keys free A-Z are expressed as above |
+| ..|
 | KEY_1           | 1 KEY                   |
 | KEY_2           | 2 KEY                   |
-| All the number keys from 1-10 are expressed as above |
+| ..|
 | KEY_F1 | F1 KEY |
 | KEY_F2 | F2 KEY |
-| All the function keys free F1-F12 are expressed as above |
+| .. |
 | --------------------------------------------------------------| ---------------------------| 
 | MOD_CONTROL_LEFT |Left Control Key | 
 | MOD_SHIFT_LEFT |Left Shift Key|
